@@ -3,8 +3,6 @@
 var originEncodeUri = encodeURI;
 var originEncodeUriComponent = encodeURIComponent;
 
-console.log(this == global);
-
 function percentialize(x) {
 	return '%' + x.charCodeAt(0).toString(16).toUpperCase();
 }

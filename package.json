@@ -1,6 +1,6 @@
 {
   "name": "rfc-encode-uri",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "RFC3986 Compliant encodeURI/encodeURIComponent polyfill",
   "main": "index.js",
   "scripts": {
